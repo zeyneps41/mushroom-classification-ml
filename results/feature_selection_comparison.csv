@@ -1,0 +1,3 @@
+Model,Accuracy,F1,Ozellik_sayisi
+Random Forest - Tum kodlanmis ozellikler,1.0,1.0,117
+Random Forest - Secilen 10 ozellik,0.9778461538461538,0.97712833545108,10
